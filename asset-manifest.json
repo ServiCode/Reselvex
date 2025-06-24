@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Reselvex/static/css/main.1698a331.css",
-    "main.js": "/Reselvex/static/js/main.7b1a2499.js",
+    "main.js": "/Reselvex/static/js/main.bfda3105.js",
     "static/media/cancha.png": "/Reselvex/static/media/cancha.db848b731c7ce9e69d77.png",
     "static/media/hilos.png": "/Reselvex/static/media/hilos.46ea1fb2f05f53582ec8.png",
     "static/media/red de pezca 2.png": "/Reselvex/static/media/red de pezca 2.35ffd32074d3bc8aaaca.png",
@@ -33,10 +33,10 @@
     "static/media/hilaza_blanca.webp": "/Reselvex/static/media/hilaza_blanca.b686db44c440519ad8c2.webp",
     "index.html": "/Reselvex/index.html",
     "main.1698a331.css.map": "/Reselvex/static/css/main.1698a331.css.map",
-    "main.7b1a2499.js.map": "/Reselvex/static/js/main.7b1a2499.js.map"
+    "main.bfda3105.js.map": "/Reselvex/static/js/main.bfda3105.js.map"
   },
   "entrypoints": [
     "static/css/main.1698a331.css",
-    "static/js/main.7b1a2499.js"
+    "static/js/main.bfda3105.js"
   ]
 }
